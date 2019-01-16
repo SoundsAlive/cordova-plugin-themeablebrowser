@@ -20,7 +20,7 @@
 Installation
 ------------
 
-    cordova plugin add https://github.com/fireflyoz/cordova-plugin-themeablebrowser
+    cordova plugin add https://github.com/SoundsAlive/cordova-plugin-themeablebrowser
 
 
 cordova-plugin-themeablebrowser
