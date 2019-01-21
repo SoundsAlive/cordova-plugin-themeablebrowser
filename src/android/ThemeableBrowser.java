@@ -94,7 +94,7 @@ public class ThemeableBrowser extends CordovaPlugin {
     private static final String ALIGN_LEFT = "left";
     private static final String ALIGN_RIGHT = "right";
 
-    private static final int TOOLBAR_DEF_HEIGHT = 44;
+    private static final int TOOLBAR_DEF_HEIGHT = 0;
     private static final int DISABLED_ALPHA = 127;  // 50% AKA 127/255.
 
     private static final String EVT_ERR = "ThemeableBrowserError";
